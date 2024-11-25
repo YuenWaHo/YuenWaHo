@@ -6,7 +6,7 @@
 [![ResearchGate](https://img.shields.io/badge/RG-badge?style=for-the-badge&logo=ResearchGate&logoColor=ffffff&labelColor=000000&color=000000)](https://www.researchgate.net/profile/Yuen-Wa-Ho)
 [![Google Scholar](https://img.shields.io/badge/GScholar-badge?style=for-the-badge&logo=GoogleScholar&color=ffffff)](https://scholar.google.com.hk/citations?user=rCZFcA4AAAAJ&hl=en)
 
-- _Postdoctoral Fellow_ @ [Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), Hong Kong Polytechnic University (2021 Dec - present)
+- _Postdoctoral Fellow_ @ [Marine Eco & Aqua Lab](https://www.seafoodmeal.today/), Hong Kong Polytechnic University (2021 Dec - present)
 - _Researcher_ @ [Cetacea Research Institute](https://www.hku-cetacean-ecology.net/cri) (2015 Sep - present)
 
 ## Current Projects
@@ -14,7 +14,7 @@
 ### Marine Mammal Ecology
 
 - [Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins](https://github.com/YuenWaHo/EEP-Sousa-WeaningAge) [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/EEP-Sousa-WeaningAge)
-- [Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions](https://github.com/YuenWaHo/sousa_repro_dynamics) [![DOI](https://img.shields.io/badge/10.1016%2Fj.biocon.2024.110690-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.biocon.2024.110690) [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/sousa_repro_dynamics)
+- [Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions](https://github.com/YuenWaHo/sousa_repro_dynamics) [![DOI](https://img.shields.io/badge/10.1016%2Fj.biocon.2024.110690-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.biocon.2024.110690) [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/BC-sousa-repro)
 - Application of stable isotope techniques to identify diet composition and resource partitioning among subpopulations
 - Necropsy and post-mortem analysis of strandings in Hong Kong waters - patterns, hotspots, conservation implications
 
