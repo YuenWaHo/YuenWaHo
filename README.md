@@ -28,17 +28,17 @@ Significance of sound in aquatic environments covers marine organisms' use of so
 
 ### Microplastics and its impacts
 
-Distribution and impact processes of microplastic particles in marine environments and organisms. It highlights how these particles are ingested by marine life, leading to ecological risks such as potential harm to marine species and disruptions to food webs.
-
-Investigated animals and environments:
-
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhazmat.2021.126541-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2021.126541) [![DOI](https://img.shields.io/badge/DOI-10.3390%2Ftoxics10080414-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.3390/toxics10080414) [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhazmat.2024.134959-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2024.134959)
 
-Indo-Pacific humpback dolphins; Green-lipped mussel; Oysters; Human faeces; Jellyfish; Sponge in Deep Artic; Brine shrimp in Tibet plateau; Hong Kong's river and marine water; Hong Kong's road runoff
+Distribution and impact processes of microplastic particles in marine environments and organisms. It highlights how these particles are ingested by marine life, leading to ecological risks such as potential harm to marine species and disruptions to food webs.
+
+Studied animals and environemnt include: Indo-Pacific humpback dolphins; Green-lipped mussel; Oysters; Human faeces; Jellyfish; Sponge in Deep Artic; Brine shrimp in Tibet plateau; Hong Kong's river and marine water; Hong Kong's road runoff
 
 Other microplastic related projects:
 
-- Holographic imaging technique for _in-situ_ microplastic identification [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41598--024--52762--5-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41598-024-52762-5) [![DOI](https://img.shields.io/badge/DOI-10.1002%2Fadpr.202400038-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1002/adpr.202400038)
+- Holographic imaging technique for _in-situ_ microplastic identification
+
+  [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41598--024--52762--5-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41598-024-52762-5) [![DOI](https://img.shields.io/badge/DOI-10.1002%2Fadpr.202400038-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1002/adpr.202400038)
 
 - Microbiome community on microplastic particles in river water (In submission)
 - Development of nano-bubble for removal of sub-10 micron microplastics in waste water [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41467--024--53304--3-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41467-024-53304-3)
