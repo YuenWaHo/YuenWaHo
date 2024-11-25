@@ -1,12 +1,10 @@
 ## Yuen-Wa Ho (Derek)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&color=D14836)](mailto:hoyuenwaderek@gmail.com)
-[![Github](https://img.shields.io/badge/Github-badge?style=for-the-badge&logo=Github&color=black)
-](https://github.com/YuenWaHo)
+[![Github](https://img.shields.io/badge/Github-badge?style=for-the-badge&logo=Github&color=black)](https://github.com/YuenWaHo)
 [![ORCID](https://img.shields.io/badge/ORCID-badge?style=for-the-badge&logo=ORCID&logoColor=white&color=Black)](https://orcid.org/0000-0003-1523-112X)
 [![ResearchGate](https://img.shields.io/badge/RG-badge?style=for-the-badge&logo=ResearchGate&logoColor=ffffff&labelColor=000000&color=000000)](https://www.researchgate.net/profile/Yuen-Wa-Ho)
-[![Google Scholar](https://img.shields.io/badge/GScholar-badge?style=for-the-badge&logo=GoogleScholar&color=ffffff)
-](https://scholar.google.com.hk/citations?user=rCZFcA4AAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/GScholar-badge?style=for-the-badge&logo=GoogleScholar&color=ffffff)](https://scholar.google.com.hk/citations?user=rCZFcA4AAAAJ&hl=en)
 
 - _Postdoctoral Fellow_ at [Hong Kong Polytechnic University](https://www.seafoodmeal.today/) (2021 Dec - present)
 - _Research_ at [Cetacea Research Institute](https://www.hku-cetacean-ecology.net/cri) (2015 Sep - present)
