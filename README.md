@@ -15,7 +15,8 @@
 
 - Employing hierarchical Bayesian analysis for weaning age to decipher developmental dietary shifts. Analysis of stomach contents and stable isotope techniques to unravel diet composition and resource partitioning among subpopulations; Reproductive processes such as reproductive patterns, gestation periods; how effects of environmental variables, social structures, and anthropogenic pressures on reproductive rates and population viability.
 - [Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins](https://github.com/YuenWaHo/EEP-Sousa-WeaningAge)
-- [Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions](https://github.com/YuenWaHo/sousa_repro_dynamics) [![DOI](https://img.shields.io/badge/10.1016%2Fj.biocon.2024.110690-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0&link=10.1016%2Fj.biocon.2024.110690)](https://doi.org/10.1016/j.biocon.2024.110690) [![Code](https://img.shields.io/badge/Github-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/sousa_repro_dynamics)
+- [Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions](https://github.com/YuenWaHo/sousa_repro_dynamics)
+  [![DOI](https://img.shields.io/badge/10.1016%2Fj.biocon.2024.110690-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0&link=10.1016%2Fj.biocon.2024.110690)](https://doi.org/10.1016/j.biocon.2024.110690) [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/sousa_repro_dynamics)
 
 ### Underwater Soundscapes
 
