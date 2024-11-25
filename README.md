@@ -6,7 +6,7 @@
 [![ResearchGate](https://img.shields.io/badge/RG-badge?style=for-the-badge&logo=ResearchGate&logoColor=ffffff&labelColor=000000&color=000000)](https://www.researchgate.net/profile/Yuen-Wa-Ho)
 [![Google Scholar](https://img.shields.io/badge/GScholar-badge?style=for-the-badge&logo=GoogleScholar&color=ffffff)](https://scholar.google.com.hk/citations?user=rCZFcA4AAAAJ&hl=en)
 
-- _Postdoctoral Fellow_ @ [Marine Eco & Aqua Lab](https://www.seafoodmeal.today/), Hong Kong Polytechnic University (2021 Dec - present)
+- _Postdoctoral Fellow_ @ [Marine Ecology & Aquaculture Lab](https://www.seafoodmeal.today/), Hong Kong Polytechnic University (2021 Dec - present)
 - _Researcher_ @ [Cetacea Research Institute](https://www.hku-cetacean-ecology.net/cri) (2015 Sep - present)
 
 ## Projects
@@ -34,7 +34,7 @@ Investigated animals and environments:
 
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhazmat.2021.126541-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2021.126541) [![DOI](https://img.shields.io/badge/DOI-10.3390%2Ftoxics10080414-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.3390/toxics10080414) [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhazmat.2024.134959-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2024.134959)
 
-Indo-Pacific humpback dolphins; Green-lipped mussel; Oysters; Human faeces; Brine shrimp in Tibet plateau; Hong Kong's river and marine water; Hong Kong's road runoff
+Indo-Pacific humpback dolphins; Green-lipped mussel; Oysters; Human faeces; Jellyfish; Sponge in Deep Artic; Brine shrimp in Tibet plateau; Hong Kong's river and marine water; Hong Kong's road runoff
 
 Other microplastic related projects:
 
