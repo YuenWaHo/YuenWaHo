@@ -7,24 +7,45 @@
 [![Google Scholar](https://img.shields.io/badge/GScholar-badge?style=for-the-badge&logo=GoogleScholar&color=ffffff)](https://scholar.google.com.hk/citations?user=rCZFcA4AAAAJ&hl=en)
 
 - _Postdoctoral Fellow_ @ [Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), Hong Kong Polytechnic University (2021 Dec - present)
-- _Research_ @ [Cetacea Research Institute](https://www.hku-cetacean-ecology.net/cri) (2015 Sep - present)
+- _Researcher_ @ [Cetacea Research Institute](https://www.hku-cetacean-ecology.net/cri) (2015 Sep - present)
 
 ## Current Projects
 
 ### Marine Mammal Ecology
 
-- Employing hierarchical Bayesian analysis for weaning age to decipher developmental dietary shifts. Analysis of stomach contents and stable isotope techniques to unravel diet composition and resource partitioning among subpopulations; Reproductive processes such as reproductive patterns, gestation periods; how effects of environmental variables, social structures, and anthropogenic pressures on reproductive rates and population viability.
 - [Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins](https://github.com/YuenWaHo/EEP-Sousa-WeaningAge) [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/EEP-Sousa-WeaningAge)
-
-- [Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions](https://github.com/YuenWaHo/sousa_repro_dynamics) [![DOI](https://img.shields.io/badge/10.1016%2Fj.biocon.2024.110690-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0&link=10.1016%2Fj.biocon.2024.110690)](https://doi.org/10.1016/j.biocon.2024.110690) [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/sousa_repro_dynamics)
+- [Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions](https://github.com/YuenWaHo/sousa_repro_dynamics) [![DOI](https://img.shields.io/badge/10.1016%2Fj.biocon.2024.110690-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.biocon.2024.110690) [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/sousa_repro_dynamics)
+- Application of stable isotope techniques to identify diet composition and resource partitioning among subpopulations
+- Necropsy and post-mortem analysis of strandings in Hong Kong waters - patterns, hotspots, conservation implications
 
 ### Underwater Soundscapes
 
-- The significance of sound in aquatic environments covers marine organisms' use of sound for communication, navigation, and foraging, as well as the impacts of human-induced noise pollution. Efforts focus on mitigating adverse effects and preserving marine acoustic habitats.
+Significance of sound in aquatic environments covers marine organisms' use of sound for communication, navigation, and foraging, as well as the impacts of human-induced noise pollution. Efforts focus on mitigating adverse effects and preserving marine acoustic habitats.
+
+- Fine-scale spatial variability of marine soundscape corresponds with habitat utilization of Indo-Pacific humpback dolphins in Hong Kong waters [![DOI](https://img.shields.io/badge/10.1016%2Fj.ecolind.2023.111228-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.ecolind.2023.111228)
+- Passive acoustic monitoring in western (funded by OPCFHK) and southern (funded by MCEF) Hong Kong
+- Night-time acoustic line transect for dolphin and porpoise detection and localization
 
 ### Microplastics and its impacts
 
-- Distribution and impact processes of microplastic particles in marine environments; how these particles are ingested by marine life and the subsequent ecological risks, including potential harm to marine species and disruption of food webs.
+Distribution and impact processes of microplastic particles in marine environments and organisms. It highlights how these particles are ingested by marine life, leading to ecological risks such as potential harm to marine species and disruptions to food webs.
+
+Investigated animals and environments:
+
+- Indo-Pacific humpback dolphins
+- Green-lipped mussel [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhazmat.2021.126541-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2021.126541)
+- Oysters
+- Human faecal sample [![DOI](https://img.shields.io/badge/DOI-10.3390%2Ftoxics10080414-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.3390/toxics10080414)
+- Brine shrimp in Tibet plateau [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhazmat.2024.134959-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2024.134959)
+- Hong Kong's river water
+- Hong Kong's marine water
+- Hong Kong's road runoff
+
+Other microplastic related projects:
+
+- Use of holographic imaging technique for _in-situ_ microplastic identification [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41598--024--52762--5-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41598-024-52762-5) [![DOI](https://img.shields.io/badge/DOI-10.1002%2Fadpr.202400038-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1002/adpr.202400038)
+- Microbiome community on microplastic particles in river water (In submission)
+- Development of nano-bubble for removal of sub-10 micron microplastics in waste water [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41467--024--53304--3-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41467-024-53304-3)
 
 ## Selected Publications
 
