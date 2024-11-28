@@ -6,8 +6,11 @@
 [![ResearchGate](https://img.shields.io/badge/RG-badge?style=for-the-badge&logo=ResearchGate&logoColor=ffffff&labelColor=000000&color=000000)](https://www.researchgate.net/profile/Yuen-Wa-Ho)
 [![Google Scholar](https://img.shields.io/badge/GScholar-badge?style=for-the-badge&logo=GoogleScholar&color=ffffff)](https://scholar.google.com.hk/citations?user=rCZFcA4AAAAJ&hl=en)
 
-- _Postdoctoral Fellow_ @ [Marine Ecology & Aquaculture Lab](https://www.seafoodmeal.today/), Hong Kong Polytechnic University (2021 Dec - present)
-- _Researcher_ @ [Cetacea Research Institute](https://www.hku-cetacean-ecology.net/cri) (2015 Sep - present)
+- _Research Scientist_ @ [Cetacea Research Institute](https://www.hku-cetacean-ecology.net/cri) (2015 Sep - present)
+<!---
+- _Postdoctoral Fellow_ @ [Marine Ecoacoustics and Informatics Lab](https://meil.biodiv.tw/home) (2025 April - present)
+  --->
+- _Postdoctoral Fellow_ @ [Marine Ecology & Aquaculture Lab](https://www.seafoodmeal.today/), Hong Kong Polytechnic University (2021 Dec - 2024 Mar)
 
 ## Projects
 
@@ -32,11 +35,11 @@ Significance of sound in aquatic environments covers marine organisms' use of so
 
 Distribution and impact processes of microplastic particles in marine environments and organisms. It highlights how these particles are ingested by marine life, leading to ecological risks such as potential harm to marine species and disruptions to food webs.
 
-Studied animals and environemnt include: Indo-Pacific humpback dolphins; Green-lipped mussel; Oysters; Human faeces; Jellyfish; Sponge in Deep Artic; Brine shrimp in Tibet plateau; Hong Kong's river and marine water; Hong Kong's road runoff
+Studied animals and environemnts include: Indo-Pacific humpback dolphins; Green-lipped mussel; Oysters; Human faeces; Jellyfish; Sponge in Deep Artic; Brine shrimp in Tibet plateau; Hong Kong's river and marine water; Hong Kong's road runoff
 
 Other microplastic related projects:
 
-- Holographic imaging technique for _in-situ_ microplastic identification
+- Holographic imaging technique for _in situ_ microplastic identification
 
   [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41598--024--52762--5-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41598-024-52762-5) [![DOI](https://img.shields.io/badge/DOI-10.1002%2Fadpr.202400038-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1002/adpr.202400038)
 
