@@ -58,7 +58,7 @@ Other microplastic related projects:
 
 | Notebook Name| Link | Description |
 |----------------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| AI Word Highlighter  | [![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=plastic&logo=google-colab&logoColor=white)](https://colab.research.google.com/drive/1K98Uvig2OmdEkHwmXztMwglUx-2H09D_?usp=sharing) | Highlights specified words in a `.docx` file using a GitHub-hosted word list. |
+| AI Word Highlighter  | [![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=plastic&logo=google-colab&logoColor=white)](https://colab.research.google.com/drive/1K98Uvig2OmdEkHwmXztMwglUx-2H09D_?usp=sharing) | Highlights specified words in a `.docx` file word list from Kobak et al. (2025).|
 
 <!---
 
