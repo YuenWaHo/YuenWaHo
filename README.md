@@ -53,6 +53,13 @@ Other microplastic related projects:
 - Chan, S.C.Y.<sup>#</sup>, Ho, Y.-W.<sup>#</sup>, & Karczmarski, L.<sup>#</sup> (2024) Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions. Biological Conservation 297, 110690
 - Ho, Y.-W., Lin, T.-H., Akamatsu, T., & Karczmarski, L. (2024). Fine-scale spatial variability of marine soundscape corresponds with habitat utilization of Indo-Pacific humpback dolphins in Hong Kong waters. Ecological Indicators 158, 111228
 
+## Tools for analysis
+
+
+| Notebook Name| Link | Description |
+|----------------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| AI Word Highlighter  | [![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=plastic&logo=google-colab&logoColor=white)](https://colab.research.google.com/drive/1K98Uvig2OmdEkHwmXztMwglUx-2H09D_?usp=sharing) | Highlights specified words in a `.docx` file using a GitHub-hosted word list. |
+
 <!---
 
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.biocon.2024.110690-blue?&logoColor=f5f5f5)](https://10.1016/j.biocon.2024.110690)
