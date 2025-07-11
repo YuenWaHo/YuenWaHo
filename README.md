@@ -28,7 +28,7 @@
 
 | Topic | Representative Publications |
 | ----- | ----- |
-| Method Development | - Digestion method [![DOI](https://img.shields.io/badge/10.1016/j.envpol.2021.117648-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.envpol.2021.117648) <br>- Holoraphic Imaging [![DOI](https://img.shields.io/badge/10.1038/s41598.024.52762.5-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41598-024-52762-5) <br>- Nano-bubble for removal of MPs [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41467--024--53304--3-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41467-024-53304-3)|
+| Method Development | - Digestion method [![DOI](https://img.shields.io/badge/10.1016/j.envpol.2021.117648-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.envpol.2021.117648) <br>- Holoraphic Imaging [![DOI](https://img.shields.io/badge/10.1038/s41598.024.52762.5-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41598-024-52762-5) <br>- Nano-bubble for removal of MPs [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41467--024--53304--3-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41467-024-53304-3) <br>- Computational 4D imaging of nanoplastic pollution (_in prep._)|
 | Microplastic contamination in human | - Faecal sample [![DOI](https://img.shields.io/badge/DOI-10.3390%2Ftoxics10080414-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.3390/toxics10080414)<br>- Sperm sample (_in prep._)<br>- Pediatric urine |
 | Distribution of MPs in organisms | - Green-lipped mussel (_Perna viridis_) [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhazmat.2021.126541-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2021.126541) <br>- Indo-Pacific humpback dolphin (_Sousa chinensis_) (_in prep._) <br>-Jellyfish <br>- Sponge in Deep Artic <br>- Oysters|
 | Environmental samples | - Hong Kong's rivers and streams (in submission) <br>- Urban road runoff [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhazmat.2024.134959-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2024.134959) <br>- Tibetan salt lake [![DOI](https://img.shields.io/badge/10.1016/j.jhazmat.2024.134959-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2024.134959) <br>- Microbiome community on MP and natural particles in river water (major revision) <br>- Microbiome community on MPs in marine water (_in prep._)|
@@ -43,10 +43,10 @@
 
 ## Tools for analysis
 
-| Notebook Name| Link | Description |
-|----------------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| Notebook | Link | Description |
+|:-----:|:---------:|-----------|
 | AI Word Highlighter  | [![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=plastic&logo=google-colab&logoColor=white)](https://colab.research.google.com/drive/1K98Uvig2OmdEkHwmXztMwglUx-2H09D_?usp=sharing) | Highlights specified words in a `.docx` file word list from Kobak et al. (2025).|
-| Auto-Dorsal-Fin | [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/Image-Process-PhotoID)| Dolphin fin detection with object detection using YOLO model, image renaming, cropping, and clustering using UMAP or KMeans. |
+| Auto-Dorsal-Fin | [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/Image-Process-PhotoID) | Dolphin fin detection with object detection using YOLO model, image renaming, cropping, and clustering using UMAP or KMeans. |
 | Acoustic Localization | [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/ALTS) | Comprehensive toolkit  for acoustic line transect analysis, for calculating pulse intervals, filtering data, and visualizing sound pressure level (SPL) distributions and cross-correlations.|
 <!---
 
