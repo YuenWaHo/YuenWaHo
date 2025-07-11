@@ -47,6 +47,7 @@
 |----------------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | AI Word Highlighter  | [![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=plastic&logo=google-colab&logoColor=white)](https://colab.research.google.com/drive/1K98Uvig2OmdEkHwmXztMwglUx-2H09D_?usp=sharing) | Highlights specified words in a `.docx` file word list from Kobak et al. (2025).|
 | Auto-Dorsal-Fin | [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/Image-Process-PhotoID)| Dolphin fin detection with object detection using YOLO model, image renaming, cropping, and clustering using UMAP or KMeans. |
+| Acoustic Localization | [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/ALTS) | Comprehensive toolkit  for acoustic line transect analysis, for calculating pulse intervals, filtering data, and visualizing sound pressure level (SPL) distributions and cross-correlations.|
 <!---
 
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.biocon.2024.110690-blue?&logoColor=f5f5f5)](https://10.1016/j.biocon.2024.110690)
